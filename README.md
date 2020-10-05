@@ -33,7 +33,7 @@ A aplicação tem as seguintes rotas:
 {
   "id": "uuid",
   "provider": "Bruno",
-  "date": "2020-09-30T10:00:00.000Z"
+  "date": "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 }
 ```
 
@@ -44,17 +44,17 @@ A aplicação tem as seguintes rotas:
 	{
 		"id": "uuid",
 		"provider": "Bruno",
-		"date": "2020-09-30T13:00:00.000Z"
+		"date": "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 	},
 	{
 		"id": "uuid",
 		"provider": "Diego",
-		"date": "2020-09-30T14:00:00.000Z"
+		"date": "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 	},
 	{
 		"id": "uuid",
 		"provider": "Bruno",
-		"date": "2020-09-30T15:00:00.000Z"
+		"date": "yyyy-MM-dd'T'HH:mm:ss.SSSZ"
 	}
 ]
 ```
